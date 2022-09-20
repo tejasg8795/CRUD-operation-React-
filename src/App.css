@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.container .lead{
+  font-size:15px;
+  font-weight:bold;
+}
+.not_found{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.table_1{
+
+  text-align: center;
+}
+.btn_1{
+  margin-left: 670px;
+}
+.btn_2{
+  margin-left:10px;
+}
+
